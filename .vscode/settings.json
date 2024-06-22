@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "jobutil.h": "c",
+        "jobexecutorserver.h": "c",
+        "jobcommands.h": "c",
+        "stdio.h": "c"
+    }
+}
