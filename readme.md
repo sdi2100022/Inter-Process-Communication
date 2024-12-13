@@ -2,8 +2,6 @@
 ## Inter Process Communication (IPC)
 
 ### Author : Αθανάσιος Γιαβρίδης 
-### ΑΜ: 1115-2021-00022
-### email: sdi2100022@di.uoa.gr
 
 ## Σχεδιαστικές Επιλογές
  
